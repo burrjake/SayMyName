@@ -2,7 +2,7 @@
 'RCET0265
 'Fall 2020
 'Say My Name
-'
+'https://github.com/burrjake/SayMyName.git
 
 Option Strict On
 Option Explicit On
